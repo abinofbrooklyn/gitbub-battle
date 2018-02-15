@@ -1,4 +1,4 @@
-const axios = require('axios');
+import axios from 'axios';
 
 const id = 'YOUR_KEY';
 const sec = 'YOUR_SECRET_ID';
